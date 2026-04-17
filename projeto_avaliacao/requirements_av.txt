@@ -1,0 +1,11 @@
+#Lista de dependências para o projeto
+
+pandas          #manipular dados (dataframe)
+numpy           #cálculos
+torch           #modelos de ML
+matplotlib      #gráficos
+seaborn         #gráficos
+scikit-learn    #modelos de ML
+jupyter         #rodar notebook
+wandb           #rastrear, visualizar e gerenciar experimentos de ML
+kagglehub       #uso de recursos do kaggle (datasets, modelos etc)

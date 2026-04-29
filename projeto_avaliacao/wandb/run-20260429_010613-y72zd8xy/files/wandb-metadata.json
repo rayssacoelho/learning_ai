@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.14.3",
+  "startedAt":  "2026-04-29T04:06:13.418412Z",
+  "program":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\projeto_avaliacao\\projeto.ipynb",
+  "codePath":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\projeto_avaliacao\\projeto.ipynb",
+  "codePathLocal":  "projeto.ipynb",
+  "git":  {
+    "remote":  "https://github.com/rayssacoelho/learning_ai.git",
+    "commit":  "36a44ce8957a3e120f7f40173457ba91672343b4"
+  },
+  "email":  "rayssa.coelho.123@ufrn.edu.br",
+  "root":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\projeto_avaliacao",
+  "host":  "RayssaCoelho",
+  "executable":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\.venv\\Scripts\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "419173494784",
+      "used":  "231357628416"
+    }
+  },
+  "memory":  {
+    "total":  "16869351424"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+      "memoryTotal":  "6442450944",
+      "cudaCores":  2560,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-4846d409-6124-e767-8301-bdb2936241a0"
+    }
+  ],
+  "cudaVersion":  "13.1",
+  "writerId":  "v1e51r4hxk32e65r1p519zscd42dg81s"
+}

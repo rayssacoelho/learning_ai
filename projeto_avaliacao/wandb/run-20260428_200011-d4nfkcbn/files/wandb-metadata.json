@@ -1,0 +1,17 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.14.3",
+  "startedAt":  "2026-04-28T23:00:11.022626Z",
+  "program":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\projeto_avaliacao\\projeto.ipynb",
+  "codePath":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\projeto_avaliacao\\projeto.ipynb",
+  "codePathLocal":  "projeto.ipynb",
+  "git":  {
+    "remote":  "https://github.com/rayssacoelho/learning_ai.git",
+    "commit":  "f17bf78955d946fac4d80631b61a491c22fe94fd"
+  },
+  "email":  "rayssa.coelho.123@ufrn.edu.br",
+  "root":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\projeto_avaliacao",
+  "host":  "RayssaCoelho",
+  "executable":  "c:\\Users\\rayco\\Desktop\\atividades\\aulas_ia\\learning_ai\\.venv\\Scripts\\python.exe",
+  "writerId":  "acxvgku07ryx3vr1r4g3w5um9g68qga7"
+}

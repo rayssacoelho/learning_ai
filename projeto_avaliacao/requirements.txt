@@ -7,6 +7,7 @@ torch           #modelos de ML
 matplotlib      #gráficos
 seaborn         #gráficos
 scikit-learn    #modelos de ML
+statsmodels     #análise estatística, VIF
 jupyter         #rodar notebook
 wandb           #rastrear, visualizar e gerenciar experimentos de ML
 kagglehub       #uso de recursos do kaggle (datasets, modelos etc)

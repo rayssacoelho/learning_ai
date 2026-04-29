@@ -1,0 +1,69 @@
+_wandb:
+    value:
+        cli_version: 0.26.0
+        e:
+            8zamq4jz0by89ozumgqa3qoe8hb9bp6s:
+                codePath: c:\Users\rayco\Desktop\atividades\aulas_ia\learning_ai\projeto_avaliacao\projeto.ipynb
+                codePathLocal: projeto.ipynb
+                cpu_count: 8
+                cpu_count_logical: 12
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "419173494784"
+                        used: "230984155136"
+                email: rayssa.coelho.123@ufrn.edu.br
+                executable: c:\Users\rayco\Desktop\atividades\aulas_ia\learning_ai\.venv\Scripts\python.exe
+                git:
+                    commit: 46c51c2f43e1e15c146b0ad311c8346df4a714af
+                    remote: https://github.com/rayssacoelho/learning_ai.git
+                gpu: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 2560
+                      memoryTotal: "6442450944"
+                      name: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+                      uuid: GPU-4846d409-6124-e767-8301-bdb2936241a0
+                host: RayssaCoelho
+                memory:
+                    total: "16869351424"
+                os: Windows-11-10.0.26200-SP0
+                program: c:\Users\rayco\Desktop\atividades\aulas_ia\learning_ai\projeto_avaliacao\projeto.ipynb
+                python: CPython 3.14.3
+                root: c:\Users\rayco\Desktop\atividades\aulas_ia\learning_ai\projeto_avaliacao
+                startedAt: "2026-04-29T16:43:53.202428Z"
+                writerId: 8zamq4jz0by89ozumgqa3qoe8hb9bp6s
+        m: []
+        python_version: 3.14.3
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 1
+                - 2
+                - 14
+                - 41
+            "4": 3.14.3
+            "5": 0.26.0
+            "8":
+                - 1
+                - 3
+            "12": 0.26.0
+            "13": windows-amd64
+batch_size:
+    value: 64
+dropout:
+    value: 0.5
+hidden_sizes:
+    value:
+        - 64
+        - 32
+learning_rate:
+    value: 0.01

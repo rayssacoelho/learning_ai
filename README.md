@@ -122,19 +122,24 @@ All experiments are tracked in Weights & Biases:
 
 ### Data Distribution
 
-![EDA](./figures/histograms_features.png)
+<img width="1916" height="1348" alt="histograms_features" src="https://github.com/user-attachments/assets/babdee02-ce54-4977-8f5e-b36ce70a3ee4" />
 
 ### Feature Ranking
-
-![Features](./figures/feature_ranking.png)
+<img width="1500" height="900" alt="feature_ranking" src="https://github.com/user-attachments/assets/ca870b4d-2897-43ba-9ef3-da036ad62090" />
 
 ### Correlation Matrix
 
-![Correlation](./figures/correlation_matrix.png)
+<img width="1800" height="1500" alt="correlation_matrix" src="https://github.com/user-attachments/assets/a9b721ac-e79e-4619-af0a-a80e70bdab68" />
+
+### Confusion Matrix
+
+<img width="1200" height="900" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d07cb2e2-d0f0-4f75-b5fa-786c6e34727a" />
+
 
 ### Training Curves in Sweep
 
-![Training](./figures/training_sweep.png)
+<img width="1515" height="760" alt="training_sweep" src="https://github.com/user-attachments/assets/adfa1053-a481-423c-a231-5dfeef6d1b9c" />
+
 
 ## 🎯 Final Metrics
 

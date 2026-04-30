@@ -124,18 +124,18 @@ All experiments are tracked in Weights & Biases:
 
 ### Data Distribution
 
-<img width="1916" height="1348" alt="histograms_features" src="https://github.com/user-attachments/assets/babdee02-ce54-4977-8f5e-b36ce70a3ee4" />
+<img width="1150" height="809" alt="histograms_features" src="https://github.com/user-attachments/assets/babdee02-ce54-4977-8f5e-b36ce70a3ee4" />
 
 ### Feature Ranking
-<img width="1500" height="900" alt="feature_ranking" src="https://github.com/user-attachments/assets/ca870b4d-2897-43ba-9ef3-da036ad62090" />
+<img width="900" height="540" alt="feature_ranking" src="https://github.com/user-attachments/assets/ca870b4d-2897-43ba-9ef3-da036ad62090" />
 
 ### Correlation Matrix
 
-<img width="1800" height="1500" alt="correlation_matrix" src="https://github.com/user-attachments/assets/a9b721ac-e79e-4619-af0a-a80e70bdab68" />
+<img width="1080" height="900" alt="correlation_matrix" src="https://github.com/user-attachments/assets/a9b721ac-e79e-4619-af0a-a80e70bdab68" />
 
 ### Confusion Matrix
 
-<img width="1200" height="900" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d07cb2e2-d0f0-4f75-b5fa-786c6e34727a" />
+<img width="720" height="540" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d07cb2e2-d0f0-4f75-b5fa-786c6e34727a" />
 
 
 ### Training Curves in Sweep

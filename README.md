@@ -118,7 +118,9 @@ python notebook/projeto.ipynb
 
 All experiments are tracked in Weights & Biases:
 
-🔗 Project link: [W&B Dashboard](https://wandb.ai/raycoelho-ufrn/mlops-project-dermatology?nw=nwuserraycoelho)## 📊 Results
+🔗 Project link: [W&B Dashboard](https://wandb.ai/raycoelho-ufrn/mlops-project-dermatology?nw=nwuserraycoelho)
+
+## 📊 Results
 
 ### Data Distribution
 

@@ -71,8 +71,8 @@ The pipeline follows these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rayssacoelho/learning_ai.git
-cd learning_ai
+git clone https://github.com/rayssacoelho/mlp-dermatology-classifier.git
+cd mlp-dermatology-classifier
 ```
 
 ### 2. Create a virtual environment
